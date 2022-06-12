@@ -1,0 +1,304 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+
+}
+body{
+  margin: 0;
+  padding: 0;
+  background-image:url('../Image/4k.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  }
+
+.nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: rgba(0, 0, 0, 0.2);
+    
+}
+
+.nav li:hover{
+ transform: scale(1.1); 
+}
+
+.nav li {
+  float: right;
+}
+
+.nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 17px 19px;
+  text-decoration: none;
+  font-family: serif;
+}
+
+.nav li a:hover {
+  background-color: blueviolet;
+}
+
+.active{
+  background-color: blueviolet;
+}
+
+.overlay{
+  background-color: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  height: 657px;
+}
+
+.header {
+  text-align: center;
+  background-image: url('../Image/Header.gif');
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+.Logo h1{
+  position: absolute;
+ margin-top: 9px;
+ margin-left: 10px ;
+ font-family: sans-serif;
+ color: black;
+}
+
+.container{
+  width: 97%;
+  height: 97%;
+  background: rgba(0, 0, 0, 0.6);
+  margin: 20px;
+  border-style: solid;
+  border-color: blueviolet;
+  border-radius: 50px;
+}
+
+
+.container img{
+  width: 500px;
+  height: 500px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 50px;
+  margin:2% ;
+}
+ .article{
+ position: absolute;
+ top: 100px;
+ width: 50%;
+ left: 600px;
+ color: white;
+ }
+
+.article h1{
+  font-family: sans-serif;
+}
+
+.article p{
+  font-family: sans-serif;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.article2{
+ position: absolute;
+ top: 650px;
+ width: 50%;
+ left: 600px;
+ color: white;
+ }
+
+.article2 h1{
+  font-family: sans-serif;
+}
+
+.article2 p{
+  font-family: sans-serif;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.article3{
+ position: absolute;
+ top: 1200px;
+ width: 50%;
+ left: 600px;
+ color: white;
+ }
+
+.article3 h1{
+  font-family: sans-serif;
+}
+
+.article3 p{
+  font-family: sans-serif;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.article4{
+ position: absolute;
+ top: 1750px;
+ width: 50%;
+ left: 600px;
+ color: white;
+ }
+
+.article4 h1{
+  font-family: sans-serif;
+}
+
+.article4 p{
+  font-family: sans-serif;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.article5{
+ position: absolute;
+ top: 2300px;
+ width: 50%;
+ left: 600px;
+ color: white;
+ }
+
+.article5 h1{
+  font-family: sans-serif;
+}
+
+.article5 p{
+  font-family: sans-serif;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.article6{
+ position: absolute;
+ top: 2860px;
+ width: 50%;
+ left: 600px;
+ color: white;
+ }
+
+.article6 h1{
+  font-family: sans-serif;
+}
+
+.article6 p{
+  font-family: sans-serif;
+  margin: 10px;
+  font-size: 20px;
+}
+
+
+.article7{
+ position: absolute;
+ top: 3410px;
+ width: 50%;
+ left: 600px;
+ color: white;
+ }
+
+.article7 h1{
+  font-family: sans-serif;
+}
+
+.article7 p{
+  font-family: sans-serif;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.article7{
+ position: absolute;
+ top: 3420px;
+ width: 50%;
+ left: 600px;
+ color: white;
+ }
+
+.article7 h1{
+  font-family: sans-serif;
+}
+
+.article7 p{
+  font-family: sans-serif;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.article8{
+ position: absolute;
+ top: 3970px;
+ width: 50%;
+ left: 600px;
+ color: white;
+ }
+
+.article8 h1{
+  font-family: sans-serif;
+}
+
+.article8 p{
+  font-family: sans-serif;
+  margin: 10px;
+  font-size: 20px;
+}
+
+
+.article9{
+ position: absolute;
+ top: 4520px;
+ width: 50%;
+ left: 600px;
+ color: white;
+ }
+
+.article9 h1{
+  font-family: sans-serif;
+}
+
+.article9 p{
+  font-family: sans-serif;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.article10{
+ position: absolute;
+ top: 5090px;
+ width: 50%;
+ left: 600px;
+ color: white;
+ }
+
+.article10 h1{
+  font-family: sans-serif;
+}
+
+.article10 p{
+  font-family: sans-serif;
+  margin: 10px;
+  font-size: 20px;
+}
+
+
+
+.footer{
+  background:rgba(0, 0, 0, 1) ;
+  background-image: url('../Image/Header.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
+.footer a{
+  color: black;
+} 
+
